@@ -1,6 +1,6 @@
 {
   "name": "vue-ds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "scripts": {
     "build": "vue-cli-service build --target lib --name ederusena src/main.ts",
@@ -19,8 +19,8 @@
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-decorators": "^7.8.3",
-    "@ederusena/core": "^1.0.1",
-    "@ederusena/styles": "^1.0.1",
+    "@ederusena/core": "^1.0.2",
+    "@ederusena/styles": "^1.0.2",
     "@storybook/addon-actions": ">=5.3.0",
     "@storybook/addon-docs": ">=5.3.0",
     "@storybook/addon-knobs": ">=5.3.0",
