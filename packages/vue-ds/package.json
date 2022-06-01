@@ -1,5 +1,5 @@
 {
-  "name": "vue-ds",
+  "name": "vue-dsx",
   "version": "0.1.4",
   "private": false,
   "publishConfig": {
@@ -48,5 +48,5 @@
     "vue-loader": "^15.9.1",
     "vue-template-compiler": "^2.6.11"
   },
-  "gitHead": "836eeb7d0b64b22690553d962937d7bf0442ba3e"
+  "gitHead": "07aea98e3007a4d57752485eea29fb9613e011f0"
 }

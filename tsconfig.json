@@ -35,10 +35,10 @@
         "core/src"
       ],
       "@ederusena/react": [
-        "react-ds/src"
+        "react-dsx/src"
       ],
       "@ederusena/vue": [
-        "vue-ds/src"
+        "vue-dsx/src"
       ]
     }
   }

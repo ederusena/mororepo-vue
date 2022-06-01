@@ -1,5 +1,5 @@
 {
-  "name": "react-ds",
+  "name": "react-dsx",
   "version": "0.1.4",
   "private": false,
   "publishConfig": {
@@ -52,5 +52,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "836eeb7d0b64b22690553d962937d7bf0442ba3e"
+  "gitHead": "07aea98e3007a4d57752485eea29fb9613e011f0"
 }
