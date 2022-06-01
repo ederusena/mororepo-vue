@@ -1,6 +1,6 @@
 {
   "name": "react-ds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "start": "start-storybook -p 9009 -c .storybook",
@@ -10,11 +10,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@ederusena/styles": "1.0.0",
+    "@ederusena/styles": "^1.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
+    "@ederusena/core": "^1.0.1",
     "@storybook/addon-actions": "^5.3.14",
     "@storybook/addon-links": "^5.3.14",
     "@storybook/addons": "^5.3.14",
@@ -27,7 +28,6 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
-    "@ederusena/core": "1.0.0",
     "awesome-typescript-loader": "^5.2.1",
     "node-sass": "^4.13.1",
     "react-scripts": "3.4.0",
