@@ -1,6 +1,6 @@
 {
-  "name": "ederusena-monorepo",
-  "private": false,
+  "name": "monorepo-project",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],

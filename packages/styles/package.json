@@ -1,9 +1,9 @@
 {
-  "name": "@ederusena/styles",
-  "version": "1.0.5",
+  "name": "@ederusena/mono-styles",
+  "version": "0.0.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "07aea98e3007a4d57752485eea29fb9613e011f0"
+  "gitHead": "c053f6b182982e6d6c4d101cad5159b709ee7de9"
 }
