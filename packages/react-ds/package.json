@@ -1,6 +1,6 @@
 {
   "name": "react-dsx",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -13,12 +13,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@ederusena/styles": "^1.0.4",
+    "@ederusena/styles": "^1.0.5",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
-    "@ederusena/core": "^1.0.4",
+    "@ederusena/core": "^1.0.5",
     "@storybook/addon-actions": "^5.3.14",
     "@storybook/addon-links": "^5.3.14",
     "@storybook/addons": "^5.3.14",

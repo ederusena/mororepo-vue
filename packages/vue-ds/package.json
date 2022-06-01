@@ -1,6 +1,6 @@
 {
   "name": "vue-dsx",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -22,8 +22,8 @@
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-decorators": "^7.8.3",
-    "@ederusena/core": "^1.0.4",
-    "@ederusena/styles": "^1.0.4",
+    "@ederusena/core": "^1.0.5",
+    "@ederusena/styles": "^1.0.5",
     "@storybook/addon-actions": ">=5.3.0",
     "@storybook/addon-docs": ">=5.3.0",
     "@storybook/addon-knobs": ">=5.3.0",
