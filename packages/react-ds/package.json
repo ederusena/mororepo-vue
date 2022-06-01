@@ -1,7 +1,7 @@
 {
   "name": "react-ds",
   "version": "0.1.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "start-storybook -p 9009 -c .storybook",
     "build-storybook": "build-storybook -c .storybook",

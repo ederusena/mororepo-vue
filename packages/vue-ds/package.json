@@ -1,7 +1,7 @@
 {
   "name": "vue-ds",
   "version": "0.1.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "vue-cli-service build --target lib --name ederusena src/main.ts",
     "test:unit": "vue-cli-service test:unit",
